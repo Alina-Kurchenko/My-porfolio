@@ -25,4 +25,4 @@ from skybank.late_collection_clients c
 join skybank.region_dict d
 on c.id_city = d.id_city
 </code>
-Результат выполнения select'а представлен на картинке "Результат выполнения select.xlsx"
+Результат выполнения select'а представлен в файле "Результат выполнения select.xlsx"
